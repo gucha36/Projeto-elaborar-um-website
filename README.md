@@ -42,3 +42,6 @@ Este projeto tem como objetivo criar um website básico utilizando as tags HTML 
 ## Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo conforme necessário.
 
+# Confira
+https://gucha36.github.io/Projeto-elaborar-um-website/
+
